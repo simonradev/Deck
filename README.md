@@ -16,7 +16,7 @@ These are the implemented methods:
 - PushLeft();
 - PushRight();
 
-There are the implemented properties:
+These are the implemented properties:
 - Count;
 - LeftCount;
 - RightCount;
