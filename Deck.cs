@@ -8,7 +8,7 @@
     /// You can retrieve the elements only from the side you inserted it into.
     /// </summary>
     /// <typeparam name="TType"></typeparam>
-    class Deck<TType>
+    public class Deck<TType>
     {
         private TType[] leftElements;
         private TType[] rightElements;
